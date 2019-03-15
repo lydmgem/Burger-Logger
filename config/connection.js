@@ -11,7 +11,7 @@ else {
     port: 3306,
     user: "root",
     password: process.env.DB_PASSWORD,
-    database: "ls1pls23ib1y8c53"
+    database: "burgers_db"
   });
 };
 

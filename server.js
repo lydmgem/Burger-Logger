@@ -1,9 +1,10 @@
 // Dependencies
+var path = require('path');
 var express = require('express');
 var app = express();
 
 // PORT setup for the application
-var PORT = process.env.PORT || 3306;
+var PORT = process.env.PORT || 3000;
 
 // Static content for the app from the "public" directory in the app directory.
 app.use(express.static("public")); 
