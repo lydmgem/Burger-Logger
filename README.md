@@ -5,6 +5,9 @@ To see the app in action, click the link below:
 
 https://peaceful-cove-39715.herokuapp.com/
 
+## How to Use:
+The user places their order at the bottom of the page, where there is a form to input their preferred burger. After clicking the "Order!" button, their burger will populate on the left column under "Bon appétit!" as well as a "Mangé!" button at the bottom. When the user decides to eat their burger, the burger will then be displayed on the right column under "Ordres Précédentes" (Previous Orders).
+
 ## Directory structure
 
 All the recommended files and directories from the steps above should look like the following structure:
